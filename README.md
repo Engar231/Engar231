@@ -19,7 +19,7 @@ Applicazione Python per il riconoscimento ottico dei caratteri (Tesseract + Easy
   <img width="868" height="652" alt="PythonOCR" src="https://github.com/user-attachments/assets/560f25e3-24a3-44f0-9dd1-928fa1ccf049" />
 </p>
 
-👉 **[Vai al Repository del Progetto](https://github.com/Engar231/Bitcamp_End_Project)**
+👉 **[Vai al Repository del Progetto](https://github.com/Engar231/Python_Riconoscimento_CarteArtisti_OCR)**
 
 ---
 
