@@ -16,7 +16,7 @@ Aree su cui mi sto concentrando e studiando:
 Applicazione Python per il riconoscimento ottico dei caratteri (Tesseract + EasyOCR) sulle carte da gioco.
 
 <p align="center">
-  <img width="868" height="652" alt="PythonOCR" src="https://github.com/user-attachments/assets/560f25e3-24a3-44f0-9dd1-928fa1ccf049" />
+  <img width="600" height="450" alt="PythonOCR" src="https://github.com/user-attachments/assets/560f25e3-24a3-44f0-9dd1-928fa1ccf049" />
 </p>
 
 👉 **[Vai al Repository del Progetto](https://github.com/Engar231/Python_Riconoscimento_CarteArtisti_OCR)**
@@ -27,7 +27,7 @@ Applicazione Python per il riconoscimento ottico dei caratteri (Tesseract + Easy
 Web application per la gestione del parco con autenticazione, controllo password e gestione ruoli Admin/Guest.
 
 <p align="center">
-  <img width="1330" height="584" alt="JavaSpringboot" src="https://github.com/user-attachments/assets/3c5166c0-4057-434f-8641-7997e98fa2bb" />
+  <img width="600" height="450" alt="JavaSpringboot" src="https://github.com/user-attachments/assets/3c5166c0-4057-434f-8641-7997e98fa2bb" />
 </p>
 
 👉 **[Vai al Repository del Progetto](https://github.com/Engar231/Java_Springboot_Backend)**
