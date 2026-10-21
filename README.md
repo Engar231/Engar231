@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Ciao, sono Engar! 
 
-<!--
-**Engar231/Engar231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante professionista nel settore della **Cybersecurity** e sviluppatore in crescita. Appassionato di scrittura e tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Competenze & Linguaggi
+Aree su cui mi sto concentrando e studiando:
+* **Linguaggi:** Python 🐍, Java ☕
+* **Database:** MySQL 🗄️
+* **Ambito principale:** Cybersecurity 🛡️ (Ethical Hacking, Network Security, Analisi)
+
+---
+
+### 📚 Obiettivi & Progetti
+* 🎯 Lavorare nel settore della cybersecurity.
+* ✍️ Diventare un bravo scrittore tecnico / di settore.
+* 🚀 Sviluppare progetti pratici in Python e Java per la sicurezza informatica.
+
+---
+
+### 📫 Contrami & Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfioezechielecavallaro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engar231)
+
+---
+*💡 "La curiosità è il vero motore dell'innovazione."*
