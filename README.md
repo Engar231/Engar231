@@ -1,6 +1,6 @@
-### 👋 Ciao, sono Engar! 
+### 👋 Ciao, sono Alfio Ezechiele Cavallaro! 
 
-Aspirante professionista nel settore della **Cybersecurity** e sviluppatore in crescita. Appassionato di scrittura e tecnologia.
+Aspirante professionista nel settore IT.
 
 ---
 
@@ -8,15 +8,6 @@ Aspirante professionista nel settore della **Cybersecurity** e sviluppatore in c
 Aree su cui mi sto concentrando e studiando:
 * **Linguaggi:** Python 🐍, Java ☕
 * **Database:** MySQL 🗄️
-* **Ambito principale:** Cybersecurity 🛡️ (Ethical Hacking, Network Security, Analisi)
-
----
-
-### 📚 Obiettivi & Progetti
-* 🎯 Lavorare nel settore della cybersecurity.
-* ✍️ Diventare un bravo scrittore tecnico / di settore.
-* 🚀 Sviluppare progetti pratici in Python e Java per la sicurezza informatica.
-
 ---
 
 ### 📫 Contrami & Social
